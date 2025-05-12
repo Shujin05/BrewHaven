@@ -1,0 +1,21 @@
+Menu Items
+
+Cappuccino - $4
+Jumbo Savory Scone - $3
+Latte - $4
+Chocolate Chip Biscotti - $2
+Espresso shot - $2
+Hazelnut Biscotti - $2
+Chocolate Croissant - $3
+Dark chocolate (Drinking Chocolate) - $5
+Cranberry Scone - $3
+Croissant - $3
+Almond Croissant - $4
+Ginger Biscotti - $2
+Oatmeal Scone - $3
+Ginger Scone - $3
+Chocolate syrup - $1
+Hazelnut syrup - $1
+Carmel syrup - $1
+Sugar Free Vanilla syrup - $1
+Dark chocolate (Packaged Chocolate) - $3
