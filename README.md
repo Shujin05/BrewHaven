@@ -17,6 +17,8 @@ BrewHaven is a coffee shop website allowing users to order their favourite drink
   - answers user questions about the coffee shop
 
 ### For Admins:  
+<img width="1724" height="870" alt="image" src="https://github.com/user-attachments/assets/2153a6fe-0e6a-478f-84ab-14c4a60f8f74" />
+
 1. **Inventory Management**:  
    - update item quantities for stock tracking.
    - add or remove items 
