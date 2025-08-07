@@ -1,6 +1,6 @@
 # BrewHaven (work in progress)
 
-Brew is a coffee shop website allowing users to order their favourite drinks and pastries 
+BrewHaven is a coffee shop website allowing users to order their favourite drinks and pastries, with a dedicated admin panel for restaurant owners to manage orders and inventory. 
 
 ---
 
