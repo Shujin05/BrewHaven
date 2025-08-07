@@ -1,4 +1,5 @@
 # BrewHaven (work in progress)
+<img width="1869" height="940" alt="image" src="https://github.com/user-attachments/assets/fda4697d-0fd9-42ac-afcb-b83e00af6986" />
 
 BrewHaven is a coffee shop website allowing users to order their favourite drinks and pastries, with a dedicated admin panel for restaurant owners to manage orders and inventory. 
 
